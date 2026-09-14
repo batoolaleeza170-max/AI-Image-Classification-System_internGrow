@@ -1,0 +1,10 @@
+Image,Prediction,Confidence
+images.jpg,cats,99.77%
+images4.jpg,birds,98.47%
+images4.jpg,horses,99.88%
+img7.jpg,dogs,99.45%
+img3.jpg,dogs,99.57%
+img7.jpg,horses,99.99%
+img8.jpg,horses,99.99%
+img10.jpg,horses,99.97%
+img10.jpg,horses,99.97%
